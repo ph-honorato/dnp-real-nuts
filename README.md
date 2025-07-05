@@ -1,10 +1,10 @@
-# dnp-real-nuts
+# 🌰 Real Nuts
 
 WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos Produtos (UFLA)
 
 ---
 
-## 🚀 Roadmap / TO DO
+## 🚀 TO DOs
 
 ### 🔨 Configuração Inicial
 
