@@ -1,0 +1,49 @@
+/* 
+  VAR
+*/
+:root {
+  --dark-green: #0e241a; /* Dark Green */
+  --gold: #c7a457; /* Satin Sheen Gold */
+  --myrtle-green: #508484; /* Myrtle Green */
+  --bittersweet: #fe5f55; /* Bittersweet */
+  --alice-blue: #edf6f9; /* Alice Blue */
+}
+
+/* 
+  BACKGROUND/ELEMENTS
+*/
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--alice-blue);
+}
+
+nav {
+  background-color: var(--dark-green);
+  margin-bottom: 2rem;
+  max-height: 60px;
+
+  a {
+    color: var(--alice-blue) !important;
+  }
+
+  img {
+    width: auto;
+    height: 50px;
+  }
+
+  .nav-item {
+    width: fit-content;
+  }
+
+  #navbarSupportedContent {
+    flex: content;
+    justify-content: end;
+  }
+}
+
+section {
+  padding-bottom: 2rem;
+}
