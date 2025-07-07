@@ -40,6 +40,7 @@ nav {
 
   img {
     width: auto;
+    height: 60px;
   }
 
   .nav-item {
@@ -58,7 +59,7 @@ nav {
 */
 #mainContentCarousel {
   img {
-    max-height: 800px;
+    max-height: 650px;
   }
 }
 
@@ -78,7 +79,7 @@ h1 {
 .custom-card {
   width: 100%;
   background-color: var(--background-color);
-  border-radius: 0.5rem;
+  border-radius: 0.3rem;
   color: var(--font-color);
-  min-height: 25rem;
+  min-height: 15rem;
 }
