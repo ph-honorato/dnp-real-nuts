@@ -10,12 +10,12 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 
 - [x] Criar estrutura inicial de pastas (`index.html`, `css/`, `js/`, `images/`)
 - [x] Configurar Bootstrap no projeto
-- [ ] Configurar jQuery (opcional)
+- [x] Configurar jQuery (opcional)
 
 ### 🏗️ Estrutura HTML
 
-- [ ] Implementar Navbar responsiva
-- [ ] Criar seção de Carrossel de Imagens (destaques)
+- [x] Implementar Navbar responsiva
+- [x] Criar seção de Carrossel de Imagens (destaques)
 - [ ] Adicionar seção "Quem Somos"
 - [ ] Adicionar seção de Produtos (com imagens e descrições)
 - [ ] Adicionar seção de Selos / Certificações
@@ -24,6 +24,7 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 ### 🎨 Estilização e Responsividade
 
 - [ ] Estilizar layout base com Bootstrap e CSS personalizado
+- [ ] Adicionar imagens ao carrossel
 - [ ] Garantir responsividade para dispositivos móveis
 - [ ] Ajustar tipografia e cores conforme o design planejado
 

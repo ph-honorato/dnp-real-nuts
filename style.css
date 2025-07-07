@@ -23,7 +23,7 @@ body {
 nav {
   background-color: var(--dark-green);
   margin-bottom: 2rem;
-  max-height: 60px;
+  min-height: 60px;
 
   a {
     color: var(--alice-blue) !important;
@@ -31,16 +31,20 @@ nav {
 
   img {
     width: auto;
-    height: 50px;
   }
 
   .nav-item {
-    width: fit-content;
+    width: max-content;
+    /* margin-left: auto; */
   }
 
-  #navbarSupportedContent {
+  #navbarNav {
+    justify-content: flex-end;
+  }
+
+  .navbar-nav {
     flex: content;
-    justify-content: end;
+    justify-content: flex-end;
   }
 }
 
