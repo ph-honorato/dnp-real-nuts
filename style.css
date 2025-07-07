@@ -7,26 +7,35 @@
   --myrtle-green: #508484; /* Myrtle Green */
   --bittersweet: #fe5f55; /* Bittersweet */
   --alice-blue: #edf6f9; /* Alice Blue */
+  --background-color: var(--dark-green);
+  --font-color: var(--alice-blue);
 }
 
 /* 
+
   BACKGROUND/ELEMENTS
+
 */
 html {
   scroll-behavior: smooth;
 }
 
 body {
-  background-color: var(--alice-blue);
+  background-color: var(--font-color);
 }
 
+/* 
+
+  NAVBAR
+
+*/
 nav {
-  background-color: var(--dark-green);
-  margin-bottom: 2rem;
-  min-height: 60px;
+  background-color: var(--background-color);
+  margin-bottom: 1rem;
+  min-height: 80px;
 
   a {
-    color: var(--alice-blue) !important;
+    color: var(--font-color) !important;
   }
 
   img {
@@ -35,19 +44,41 @@ nav {
 
   .nav-item {
     width: max-content;
-    /* margin-left: auto; */
   }
 
   #navbarNav {
     justify-content: flex-end;
   }
+}
 
-  .navbar-nav {
-    flex: content;
-    justify-content: flex-end;
+/* 
+
+  MAIN CONTENT
+
+*/
+#mainContentCarousel {
+  img {
+    max-height: 800px;
   }
 }
 
+/* 
+
+  SECTIONS
+
+*/
 section {
-  padding-bottom: 2rem;
+  padding-bottom: 10rem;
+}
+
+h1 {
+  color: var(--background-color);
+}
+
+.custom-card {
+  width: 100%;
+  background-color: var(--background-color);
+  border-radius: 0.5rem;
+  color: var(--font-color);
+  min-height: 25rem;
 }

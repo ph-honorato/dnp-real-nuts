@@ -16,7 +16,7 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 
 - [x] Implementar Navbar responsiva
 - [x] Criar seção de Carrossel de Imagens (destaques)
-- [ ] Adicionar seção "Quem Somos"
+- [x] Adicionar seção "Quem Somos"
 - [ ] Adicionar seção de Produtos (com imagens e descrições)
 - [ ] Adicionar seção de Selos / Certificações
 - [ ] Adicionar seção de Equipe
