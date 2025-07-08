@@ -83,3 +83,48 @@ h1 {
   color: var(--font-color);
   min-height: 15rem;
 }
+
+/* 
+
+  SELOS
+
+*/
+.scroll-container {
+  overflow: hidden;
+  width: 100%;
+  -webkit-mask: linear-gradient(
+    90deg,
+    transparent,
+    white 20%,
+    white 80%,
+    transparent
+  );
+  mask: linear-gradient(90deg, transparent, white 20%, white 80%, transparent);
+}
+
+.scroll-content {
+  display: flex;
+  width: fit-content;
+  animation: scroll-left 30s linear infinite;
+}
+
+.scroll-content .scroll-row {
+  display: flex;
+}
+
+.scroll-row img {
+  width: 150px;
+  height: 150px;
+  flex-shrink: 0;
+  object-fit: cover;
+  margin: 0 120px;
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}

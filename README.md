@@ -18,7 +18,7 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 - [x] Criar seção de Carrossel de Imagens (destaques)
 - [x] Adicionar seção "Quem Somos"
 - [x] Adicionar seção de Produtos
-- [ ] Adicionar seção de Selos / Certificações
+- [x] Adicionar seção de Selos
 - [ ] Adicionar seção de Equipe
 
 ### 🎨 Estilização e Responsividade
