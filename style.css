@@ -79,7 +79,14 @@ h1 {
   color: var(--background-color);
   font-size: 2.8rem;
   margin-bottom: 1.5rem;
+}
 
+h2 {
+  color: var(--alice-blue);
+}
+
+h1,
+h2 {
   font-family: "DM Serif Text", serif;
   font-weight: 800;
   font-style: normal;
@@ -101,6 +108,12 @@ p {
   box-shadow: 1px -1px 18px 1px rgba(0, 0, 0, 0.41);
   -webkit-box-shadow: 1px -1px 18px 1px rgba(0, 0, 0, 0.41);
   -moz-box-shadow: 1px -1px 18px 1px rgba(0, 0, 0, 0.41);
+}
+
+.real-nuts-logo {
+  width: auto;
+  height: 100%;
+  max-height: 300px;
 }
 
 /* 
@@ -145,5 +158,57 @@ p {
   }
   100% {
     transform: translateX(-50%);
+  }
+}
+
+/* 
+
+  PRODUTOS
+
+*/
+.lobo-guara-cover {
+  width: 100%;
+  height: auto;
+  max-width: 310px;
+  outline: solid black 0.5px;
+
+  transform: rotate3d(1, 1, 1, 355deg);
+  box-shadow: -12px 12px 32px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -12px 12px 32px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -12px 12px 32px 0px rgba(0, 0, 0, 0.75);
+}
+
+.carousel-indicators {
+  bottom: -20px;
+  margin-bottom: 0;
+}
+
+#productsCarousel {
+  img {
+    min-height: 8rem;
+    object-fit: cover;
+  }
+}
+
+/* 
+
+  RESPONSIVIDADE
+
+*/
+@media only screen and (max-width: 991px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  .real-nuts-logo {
+    max-height: 200px;
+  }
+
+  .lobo-guara-cover {
+    max-width: 200px;
+  }
+
+  .carousel-indicators {
+    bottom: -40px;
   }
 }
