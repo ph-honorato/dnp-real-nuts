@@ -4,7 +4,7 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 
 ---
 
-## 🚀 TO DOs
+## 🚀 TO DOs v1
 
 ### 🔨 Configuração Inicial
 
@@ -33,8 +33,8 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 ### ✨ Animações e Interatividade
 
 - [ ] Adicionar animações de entrada nas seções (ex.: fade in, slide, etc.)
-- [ ] Implementar rolagem suave ao navegar pelos links do menu
-- [ ] Adicionar animações no carrossel (Bootstrap ou manual)
+- [x] Implementar rolagem suave ao navegar pelos links do menu
+- [x] Adicionar animações no carrossel (Bootstrap ou manual)
 
 ### 🧹 Refinamentos Finais
 
