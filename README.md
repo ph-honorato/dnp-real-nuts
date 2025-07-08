@@ -19,7 +19,7 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 - [x] Adicionar seção "Quem Somos"
 - [x] Adicionar seção de Produtos
 - [x] Adicionar seção de Selos
-- [ ] Adicionar seção de Equipe
+- [ ] Adicionar seção de Equipe (opcional)
 
 ### 🎨 Estilização e Responsividade
 
@@ -32,22 +32,30 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 
 ### ✨ Animações e Interatividade
 
-- [ ] Adicionar animações de entrada nas seções (ex.: fade in, slide, etc.)
 - [x] Implementar rolagem suave ao navegar pelos links do menu
 - [x] Adicionar animações no carrossel (Bootstrap ou manual)
+- [ ] Adicionar animações de entrada nas seções (opcional)
 
 ### 🧹 Refinamentos Finais
 
-- [ ] Revisar semântica e acessibilidade (uso correto de `alt`, `aria`, etc.)
+- [x] Revisar semântica e acessibilidade (uso correto de `alt`, `aria`, etc.)
+- [x] Minificar CSS e JS (opcional)
+- [x] Testar o site em diferentes navegadores (Chrome, Firefox, Edge, Mobile)
 - [ ] Otimizar imagens (compressão sem perda)
-- [ ] Minificar CSS e JS (opcional)
-- [ ] Testar o site em diferentes navegadores (Chrome, Firefox, Edge, Mobile)
 
-### 🚀 Deploy
+### 🐞 Ajustes
+
+- [x] Adicionar imagem de logo ao site
+- [x] Trocar capa de chocolate nos carrossel
+- [x] Aumentar a fonte do texto sobre cerrado em mobile
+- [x] Adicionar click na logo
+- [x] Estilizar o botão de instagram
+
+### 🚀 Deploy v1
 
 - [x] Configurar o repositório no GitHub
-- [ ] Realizar deploy no Netlify
-- [ ] Testar site em produção (links, responsividade, carregamento)
+- [x] Realizar deploy no Netlify
+- [x] Testar site em produção (links, responsividade, carregamento)
 
 ---
 
