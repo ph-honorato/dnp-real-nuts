@@ -45,10 +45,10 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 
 ### 🐞 Ajustes
 
-- [ ] Adicionar imagem de logo ao site
-- [ ] Trocar capa de chocolate nos carrossel
-- [ ] Aumentar a fonte do texto sobre cerrado em mobile
-- [ ] Adicionar click na logo
+- [x] Adicionar imagem de logo ao site
+- [x] Trocar capa de chocolate nos carrossel
+- [x] Aumentar a fonte do texto sobre cerrado em mobile
+- [x] Adicionar click na logo
 
 ### 🚀 Deploy v1
 
