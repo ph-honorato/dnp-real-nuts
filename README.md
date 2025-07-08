@@ -23,7 +23,7 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 
 ### 🎨 Estilização e Responsividade
 
-- [ ] Estilizar layout base com Bootstrap e CSS personalizado
+- [x] Estilizar layout base com Bootstrap e CSS personalizado
 - [ ] Adicionar imagens ao carrossel
 - [ ] Adicionar imagens e descrição ao quem somos
 - [ ] Adicionar imagens e descrição aos produtos

@@ -36,6 +36,9 @@ nav {
 
   a {
     color: var(--font-color) !important;
+    font-family: "Gowun Dodum", sans-serif;
+    font-weight: 500;
+    font-style: normal;
   }
 
   img {
@@ -74,6 +77,18 @@ section {
 
 h1 {
   color: var(--background-color);
+  font-size: 2.8rem;
+  margin-bottom: 1.5rem;
+
+  font-family: "DM Serif Text", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+p {
+  font-family: "Gowun Dodum", sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .custom-card {
@@ -82,6 +97,10 @@ h1 {
   border-radius: 0.3rem;
   color: var(--font-color);
   min-height: 15rem;
+
+  box-shadow: 1px -1px 18px 1px rgba(0, 0, 0, 0.41);
+  -webkit-box-shadow: 1px -1px 18px 1px rgba(0, 0, 0, 0.41);
+  -moz-box-shadow: 1px -1px 18px 1px rgba(0, 0, 0, 0.41);
 }
 
 /* 
