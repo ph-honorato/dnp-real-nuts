@@ -49,6 +49,7 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 - [x] Trocar capa de chocolate nos carrossel
 - [x] Aumentar a fonte do texto sobre cerrado em mobile
 - [x] Adicionar click na logo
+- [x] Estilizar o botão de instagram
 
 ### 🚀 Deploy v1
 
