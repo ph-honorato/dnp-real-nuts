@@ -72,7 +72,7 @@ nav {
 
 */
 section {
-  padding-bottom: 10rem;
+  margin-bottom: 10rem;
 }
 
 h1 {
@@ -200,15 +200,27 @@ p {
     font-size: 2rem;
   }
 
+  h2 {
+    font-size: 1rem;
+  }
+
   .real-nuts-logo {
-    max-height: 200px;
+    max-height: 150px;
   }
 
   .lobo-guara-cover {
-    max-width: 200px;
+    max-width: 150px;
   }
 
   .carousel-indicators {
     bottom: -40px;
+  }
+
+  section {
+    margin-bottom: 4rem;
+  }
+
+  p {
+    font-size: 14px;
   }
 }

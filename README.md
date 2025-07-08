@@ -27,8 +27,8 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 - [x] Adicionar imagens ao carrossel
 - [x] Adicionar imagens e descrição ao quem somos
 - [x] Adicionar imagens e descrição aos produtos
-- [ ] Garantir responsividade para dispositivos móveis
-- [ ] Ajustar tipografia e cores conforme o design planejado
+- [x] Garantir responsividade para dispositivos móveis
+- [x] Ajustar tipografia e cores conforme o design planejado
 
 ### ✨ Animações e Interatividade
 
