@@ -38,7 +38,7 @@ WebSite para empresa fictícia "Real Nuts" da turma de Desenvolvimento de Novos 
 
 ### 🧹 Refinamentos Finais
 
-- [x] Revisar semântica e acessibilidade (uso correto de `alt`, `aria`, etc.)
+- [ ] Revisar semântica e acessibilidade (uso correto de `alt`, `aria`, etc.)
 - [x] Minificar CSS e JS (opcional)
 - [x] Testar o site em diferentes navegadores (Chrome, Firefox, Edge, Mobile)
 - [ ] Otimizar imagens (compressão sem perda)
